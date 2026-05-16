@@ -18,7 +18,7 @@ export default function Home() {
             </h1>
 
             <h2 className="text-2xl text-zinc-300 mt-4">
-              Future Healthcare • IT • Mining Support Professional
+               Aiming for WHV Pathways
             </h2>
 
             <p className="text-zinc-400 mt-6 leading-relaxed">
